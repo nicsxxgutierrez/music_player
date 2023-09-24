@@ -1,0 +1,7 @@
+CRITICAL - 2023-09-20 10:28:18 --> Class "App\Controllers\MainModel" not found
+in APPPATH\Controllers\PlaylistController.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\PlaylistController->test()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PlaylistController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Playlist\\public\\index.php')
