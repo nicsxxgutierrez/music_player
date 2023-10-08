@@ -4,7 +4,7 @@ namespace App\Controllers;
 
 use App\Controllers\BaseController;
 
-class MainController extends BaseController
+class MusicController extends BaseController
 {
     private $music;
     private $play;

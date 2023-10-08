@@ -48,7 +48,7 @@
     </ul>
 
     <?php include('playlist.php');?>
-    <?php include('create.php');?>
+    <?php include('createplaylist.php');?>
     <?php include('design.php');?>
     <?php include('inserttoplaylist.php');?>
 

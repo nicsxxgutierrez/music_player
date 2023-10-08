@@ -31,7 +31,7 @@
 #--------------------------------------------------------------------
 
 database.default.hostname = localhost
-database.default.database = music
+database.default.database = kanta
 database.default.username = root
 database.default.password = 
 database.default.DBDriver = MySQLi
